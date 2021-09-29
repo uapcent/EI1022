@@ -38,7 +38,7 @@ v_tesoro = (1, 3)
 
 pos_tesoro_encontrada = busca_tesoro_primero_anchura(laberinto, v_inicio)
 
-if pos_tesoro_encontrada == None:
+if pos_tesoro_encontrada is None:
     print("Tesoro no encontrado")
 else:
     print("Tesoro encontrado en la habitación {0}".format(pos_tesoro_encontrada))

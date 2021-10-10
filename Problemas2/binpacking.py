@@ -1,4 +1,5 @@
 import sys
+from random import seed, random
 from typing import List
 
 
@@ -116,6 +117,19 @@ def show_results(res: List[int]):
 
 
 if __name__ == "__main__":
-    alg, C, W = read_data(sys.stdin)
-    lista = process(alg, C, W)
-    show_results(lista)
+    # alg, C, W = read_data(sys.stdin)
+    # lista = process(alg, C, W)
+    # show_results(lista)
+
+    seed(42)
+    w = [int(random() * 1000) + 1 for i in range(1000)]
+    c = 1100
+    print(f"Como líquido: {(sum(w) + c - 1) // c}")
+    for algorithm, sol in [(0, 637), (1, 497), (2, 474)]:
+        res = process(algorithm, c, w)
+    nc = max(res) + 1
+    print(f"Algoritmo {algorithm}: {nc}", end=" ")
+    if nc != sol:
+        print(f"Error: esperado {sol}")
+    else:
+        print("OK")

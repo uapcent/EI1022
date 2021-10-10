@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aa79d9a-ddb3-4132-8acf-53f378195ebb" name="Changes" comment="Temas 1 y 2">
-      <change afterPath="$PROJECT_DIR$/Problemas2/binpacking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EI1022.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabsSesion1/main.py" beforeDir="false" />
+    <list default="true" id="0601b40b-236c-4ec3-8c89-b320884f8ba8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EI1022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemas2/binpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas2/binpacking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectId" id="1xqlvWPZpWeAqWfehTsp5Iozy6i" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1zGI1OhYGU5P58JieClKwUuNNdi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,21 +30,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problemas1" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas2" />
-      <recent name="C:\Users\uapce\PycharmProjects\EI1022\LabsSesion2" />
-      <recent name="C:\Users\uapce\PycharmProjects\EI1022Labs\LabsSesion1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.caminoGrafo">
-    <configuration name="caminoGrafo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="binpacking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EI1022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,122 +41,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EjemplosTeoria" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problemas2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EjemplosTeoria/caminoGrafo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="knight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EI1022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problemas1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problemas1/knight.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="knight_viewer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EI1022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problemas1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problemas1/knight_viewer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="EI1022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\uapce\PycharmProjects\EI1022Labs\LabsSesion1\main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="shortest_path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EI1022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problemas1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problemas1/shortest_path.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="shortest_path_viewer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EI1022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problemas1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problemas1/shortest_path_viewer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problemas2/binpacking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,76 +57,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.caminoGrafo" />
-        <item itemvalue="Python.shortest_path_viewer" />
-        <item itemvalue="Python.knight_viewer" />
-        <item itemvalue="Python.knight" />
-        <item itemvalue="Python.shortest_path" />
+        <item itemvalue="Python.binpacking" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5aa79d9a-ddb3-4132-8acf-53f378195ebb" name="Changes" comment="" />
-      <created>1631090729781</created>
+      <changelist id="0601b40b-236c-4ec3-8c89-b320884f8ba8" name="Changes" comment="" />
+      <created>1633767783551</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1631090729781</updated>
-      <workItem from="1631090738747" duration="6341000" />
-      <workItem from="1631109733888" duration="2546000" />
-      <workItem from="1631378361061" duration="1590000" />
-      <workItem from="1631434635720" duration="923000" />
-      <workItem from="1631435739294" duration="107000" />
-      <workItem from="1631435912989" duration="3631000" />
-      <workItem from="1631532103324" duration="1517000" />
-      <workItem from="1631689018316" duration="3570000" />
-      <workItem from="1631694657265" duration="7134000" />
-      <workItem from="1631717407068" duration="5547000" />
-      <workItem from="1631786313354" duration="2181000" />
-      <workItem from="1631789335913" duration="407000" />
-      <workItem from="1632301236401" duration="968000" />
-      <workItem from="1632302526745" duration="222000" />
-      <workItem from="1632323974609" duration="1212000" />
-      <workItem from="1632386190941" duration="1382000" />
-      <workItem from="1632388266093" duration="1672000" />
-      <workItem from="1632393514610" duration="621000" />
-      <workItem from="1632404203343" duration="120000" />
-      <workItem from="1632856368154" duration="7310000" />
-      <workItem from="1632897553613" duration="13052000" />
-      <workItem from="1632929880952" duration="3861000" />
-      <workItem from="1632936024124" duration="545000" />
-      <workItem from="1633020237454" duration="477000" />
-      <workItem from="1633070617080" duration="96000" />
-      <workItem from="1633163289445" duration="1185000" />
-      <workItem from="1633169301471" duration="3242000" />
-      <workItem from="1633250187058" duration="115000" />
-      <workItem from="1633509135058" duration="6988000" />
-      <workItem from="1633534122941" duration="588000" />
-      <workItem from="1633537895900" duration="1527000" />
-      <workItem from="1633589659318" duration="1357000" />
-      <workItem from="1633592330635" duration="995000" />
-      <workItem from="1633593481804" duration="93000" />
-      <workItem from="1633595030845" duration="36000" />
-      <workItem from="1633596145626" duration="296000" />
-      <workItem from="1633726474304" duration="82000" />
-      <workItem from="1633726711607" duration="81000" />
+      <updated>1633767783551</updated>
+      <workItem from="1633767785091" duration="2587000" />
+      <workItem from="1633855867287" duration="438000" />
     </task>
-    <task id="LOCAL-00001" summary="Temas 1 y 2">
-      <created>1632301468574</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1632301468574</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Temas 1 y 2">
-      <created>1632907518136</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1632907518136</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,21 +89,7 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Temas 1 y 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temas 1 y 2" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/EI1022$listaVerticesProfundidad.coverage" NAME="listaVerticesProfundidad Coverage Results" MODIFIED="1632860094354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
-    <SUITE FILE_PATH="coverage/EI1022$knight.coverage" NAME="knight Coverage Results" MODIFIED="1632910913439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas1" />
-    <SUITE FILE_PATH="coverage/EI1022$caminoGrafo.coverage" NAME="caminoGrafo Coverage Results" MODIFIED="1633592721556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
-    <SUITE FILE_PATH="coverage/EI1022$testEasyCanvas.coverage" NAME="testEasyCanvas Coverage Results" MODIFIED="1631695889906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
-    <SUITE FILE_PATH="coverage/EI1022$dibujaLaberinto.coverage" NAME="dibujaLaberinto Coverage Results" MODIFIED="1631789694445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LabsSesion2" />
-    <SUITE FILE_PATH="coverage/EI1022$shortest_path.coverage" NAME="shortest_path Coverage Results" MODIFIED="1632902112690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas1" />
-    <SUITE FILE_PATH="coverage/EI1022$laberintoAnchura.coverage" NAME="laberintoAnchura Coverage Results" MODIFIED="1631436769642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
-    <SUITE FILE_PATH="coverage/EI1022Labs$conjuntos.coverage" NAME="conjuntos Coverage Results" MODIFIED="1631110253943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/EI1022$shortest_path_viewer.coverage" NAME="shortest_path_viewer Coverage Results" MODIFIED="1633592582223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas1" />
-    <SUITE FILE_PATH="coverage/EI1022Labs$main.coverage" NAME="main Coverage Results" MODIFIED="1631110237203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/EI1022$knight_viewer.coverage" NAME="knight_viewer Coverage Results" MODIFIED="1632936549587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas1" />
+    <SUITE FILE_PATH="coverage/EI1022$binpacking.coverage" NAME="binpacking Coverage Results" MODIFIED="1633769754158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas2" />
   </component>
 </project>

@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0601b40b-236c-4ec3-8c89-b320884f8ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EI1022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+    <list default="true" id="0601b40b-236c-4ec3-8c89-b320884f8ba8" name="Changes" comment="cambios locales">
+      <change afterPath="$PROJECT_DIR$/EjemplosTeoria/bt_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjemplosTeoria/busquedaRetocesoReinas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjemplosTeoria/busquedaRetroceso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas3/bt_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas3/sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas3/sudoku_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas3/sudoku_solver_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas4/bt_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas4/knapsack_solver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas5/bab_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas5/bpack_sol_viewer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas5/bt_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas5/knapsack_bab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminario2/busqueda_en_juegos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminario2/minmax.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemas2/binpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas2/binpacking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1zGI1OhYGU5P58JieClKwUuNNdi" />
   <component name="ProjectViewState">
@@ -30,9 +46,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problemas5" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas5" />
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas4" />
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\EjemplosTeoria" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas5" />
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas4" />
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.busquedaRetroceso">
     <configuration name="binpacking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EI1022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,8 +83,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="busquedaRetroceso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EI1022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EjemplosTeoria" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EjemplosTeoria/busquedaRetroceso.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.busquedaRetroceso" />
         <item itemvalue="Python.binpacking" />
       </list>
     </recent_temporary>
@@ -70,8 +121,30 @@
       <option name="presentableId" value="Default" />
       <updated>1633767783551</updated>
       <workItem from="1633767785091" duration="2587000" />
-      <workItem from="1633855867287" duration="438000" />
+      <workItem from="1633855867287" duration="1310000" />
+      <workItem from="1634457132941" duration="70000" />
+      <workItem from="1634570355423" duration="6772000" />
+      <workItem from="1634577843947" duration="201000" />
+      <workItem from="1634630931689" duration="479000" />
+      <workItem from="1634718924500" duration="6417000" />
+      <workItem from="1635005111542" duration="935000" />
+      <workItem from="1635323550953" duration="6976000" />
+      <workItem from="1635499287549" duration="69000" />
+      <workItem from="1635931957702" duration="3830000" />
+      <workItem from="1635938303853" duration="461000" />
+      <workItem from="1636188493754" duration="110000" />
+      <workItem from="1636223261779" duration="2033000" />
+      <workItem from="1636306911718" duration="4313000" />
+      <workItem from="1636538066934" duration="3455000" />
     </task>
+    <task id="LOCAL-00001" summary="cambios locales">
+      <created>1633856602371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633856602372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +162,12 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambios locales" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios locales" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EI1022$binpacking.coverage" NAME="binpacking Coverage Results" MODIFIED="1633769754158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas2" />
+    <SUITE FILE_PATH="coverage/EI1022$busquedaRetroceso.coverage" NAME="busquedaRetroceso Coverage Results" MODIFIED="1634572295999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
   </component>
 </project>

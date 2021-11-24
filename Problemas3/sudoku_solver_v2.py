@@ -34,10 +34,10 @@ def process(sudoku: Sudoku) -> Iterable[Sudoku]:
                 for num in self.extra.cel_vac:
                     self.extra.sudoku_alm[prim_vac[0]][prim_vac[1]] = num
                     yield self.add_decision((prim_vac, num), self.extra)
-                # Para reutilizar el Extra, y no crear copias
 
+                # Para reutilizar el Extra, y no crear copias
                 self.extra.sudoku_alm[prim_vac[0]][prim_vac[1]] = 0
-            # Cuando se hace yeild, se vuelve a llamar a bt_solve, hasta que se llenen los huecos
+            # Cuando se hace yield, se vuelve a llamar a bt_solve, hasta que se llenen los huecos
             # Cuando termine de llenarse en el yield, se ejecutará con el siguiente número
 
     initial_ds = SudokuDS(Extra(sudoku))

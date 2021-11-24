@@ -100,15 +100,7 @@ def process(alg: int, C: int, W: List[int]) -> List[int]:
     elif alg == 2:
         return primero_que_quepa_ordenado(W, C)
 
-    # opcion = lista.pop()
-    # capacidad = lista.pop()
-    #
-    # if opcion == 0:
-    #     return = mientras_quepa(lista, capacidad)
-    # elif opcion == 1:
-    #     return = primero_que_quepa(lista, capacidad)
-    # else:
-    #     return = primero_que_quepa_ordenado(lista, capacidad)
+    # Successors:
 
 
 def show_results(res: List[int]):

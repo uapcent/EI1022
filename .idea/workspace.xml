@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0601b40b-236c-4ec3-8c89-b320884f8ba8" name="Changes" comment="cambios locales">
-      <change afterPath="$PROJECT_DIR$/EjemplosTeoria/bt_scheme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosTeoria/busquedaRetocesoReinas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjemplosTeoria/busquedaRetroceso.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas3/bt_scheme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas3/sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas3/sudoku_solver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas3/sudoku_solver_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas4/bt_scheme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas4/knapsack_solver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas5/bab_scheme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas5/bpack_sol_viewer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas5/bt_scheme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas5/knapsack_bab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminario2/busqueda_en_juegos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminario2/minmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas5/binpacking_bab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas6/dac_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas6/pico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas6/punto_fijo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas7/suma_maxima.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemas2/binpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas2/binpacking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemas3/sudoku_solver_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas3/sudoku_solver_v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1zGI1OhYGU5P58JieClKwUuNNdi" />
   <component name="ProjectViewState">
@@ -47,6 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Problemas5" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -55,6 +57,8 @@
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\EjemplosTeoria" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas7" />
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas6" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas5" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas4" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas3" />
@@ -135,7 +139,14 @@
       <workItem from="1636188493754" duration="110000" />
       <workItem from="1636223261779" duration="2033000" />
       <workItem from="1636306911718" duration="4313000" />
-      <workItem from="1636538066934" duration="3455000" />
+      <workItem from="1636538066934" duration="5647000" />
+      <workItem from="1636803126474" duration="1850000" />
+      <workItem from="1637052408102" duration="1048000" />
+      <workItem from="1637062954188" duration="175000" />
+      <workItem from="1637141455919" duration="5538000" />
+      <workItem from="1637161096841" duration="2974000" />
+      <workItem from="1637331352989" duration="748000" />
+      <workItem from="1637746545285" duration="6711000" />
     </task>
     <task id="LOCAL-00001" summary="cambios locales">
       <created>1633856602371</created>
@@ -144,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633856602372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cambios locales">
+      <created>1636541657778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636541657778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

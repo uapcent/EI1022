@@ -6,9 +6,10 @@ def read_data(f) -> List[int]:
     return [int(linea) for linea in f.readlines()]
 
 
+# se le pasa el vector
 def process(v: List[int]) -> Tuple[int, int, int]:
     def rec(i: int, j: int) -> Tuple[int, int, int]:
-        if j - i == 1:
+        if j - i == 1:          # Si el vector apuntado es de solo un elemento
             return v[i], i, j
         c = (i + j) // 2
         izq = rec(i, c)

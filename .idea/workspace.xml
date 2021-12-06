@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0601b40b-236c-4ec3-8c89-b320884f8ba8" name="Changes" comment="cambios locales">
+      <change afterPath="$PROJECT_DIR$/Problemas7/bt_scheme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas7/suma_maxima_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemas8/resources_pd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problemas7/suma_maxima.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas7/suma_maxima.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemas8/knapsack_pd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas8/knapsack_pd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +45,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problemas5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Problemas7" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas7" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas5" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas4" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\EjemplosTeoria" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas8" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas7" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas6" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas5" />
       <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas4" />
-      <recent name="C:\Users\uapce\PycharmProjects\EI1022\Problemas3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.busquedaRetroceso">
+  <component name="RunManager" selected="Python.suma_maxima">
     <configuration name="binpacking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EI1022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,8 +108,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="suma_maxima" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EI1022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problemas7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problemas7/suma_maxima.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.suma_maxima" />
         <item itemvalue="Python.busquedaRetroceso" />
         <item itemvalue="Python.binpacking" />
       </list>
@@ -144,7 +172,10 @@
       <workItem from="1637853297090" duration="134000" />
       <workItem from="1638088450598" duration="2986000" />
       <workItem from="1638304335968" duration="1761000" />
-      <workItem from="1638350868986" duration="285000" />
+      <workItem from="1638350868986" duration="7239000" />
+      <workItem from="1638373985059" duration="2611000" />
+      <workItem from="1638377267666" duration="4652000" />
+      <workItem from="1638430229357" duration="12662000" />
     </task>
     <task id="LOCAL-00001" summary="cambios locales">
       <created>1633856602371</created>
@@ -167,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637753516642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cambios locales">
+      <created>1638351375660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638351375660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +229,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EI1022$binpacking.coverage" NAME="binpacking Coverage Results" MODIFIED="1633769754158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas2" />
-    <SUITE FILE_PATH="coverage/EI1022$busquedaRetroceso.coverage" NAME="busquedaRetroceso Coverage Results" MODIFIED="1634572295999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
+    <SUITE FILE_PATH="coverage/EI1022$suma_maxima.coverage" NAME="suma_maxima Coverage Results" MODIFIED="1638390029321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problemas7" />
+    <SUITE FILE_PATH="coverage/EI1022$busquedaRetroceso.coverage" NAME="busquedaRetroceso Coverage Results" MODIFIED="1638375506957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosTeoria" />
   </component>
 </project>
